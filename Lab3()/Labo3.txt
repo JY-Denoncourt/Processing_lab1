@@ -1,0 +1,20 @@
+LABORATOIRE 3
+
+À l’aide du projet PathFinding, ajoutez le code nécessaire pour trouver le chemin le plus court entre 2 tuiles
+Complétez le code pour les TODO
+Modifiez le code pour que les tuiles de début et de fin soit aléatoires.
+
+
+
+
+A faire
+OK -->Faire algo pour mettre aleatoire (pas sur mur ni sur lui-meme) les startCell et endCell
+OK -->Faire algo pour trouver chemin plus court (NodeMap => void findAStarPath ())
+OK -->Faire algo qui trouve le F le plus court de la openList (NodeMap => private Node getLowestCost(ArrayList<Node> openList) )
+OK -->Faire algo qui calcule cout deplacement entre 2 noeud(NodeMap =>  private int calculateCost(Cell nodeA, Cell nodeB) )
+OK -->Faire algo pour calculer le H (NodeMap => private int calculateH(Cell node) )
+OK -->Faire algo qui genere le path et l'affiche sur la map (NodeMap => void generatePath () )
+
+Surplus
+OK -->Faire bouton qui reset tout
+OK -->Faire plus de mur pour demontrer concept
