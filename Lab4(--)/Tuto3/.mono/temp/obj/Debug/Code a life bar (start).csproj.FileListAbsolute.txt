@@ -1,0 +1,6 @@
+D:\Informatique\DEC shawi\Session_5\Jeux_multimedia\Laboratoire\Processing_lab\Lab4(--)\Tuto3\.mono\temp\bin\Debug\Code a life bar (start).dll
+D:\Informatique\DEC shawi\Session_5\Jeux_multimedia\Laboratoire\Processing_lab\Lab4(--)\Tuto3\.mono\temp\bin\Debug\Code a life bar (start).pdb
+D:\Informatique\DEC shawi\Session_5\Jeux_multimedia\Laboratoire\Processing_lab\Lab4(--)\Tuto3\.mono\temp\obj\Debug\Code a life bar (start).csprojAssemblyReference.cache
+D:\Informatique\DEC shawi\Session_5\Jeux_multimedia\Laboratoire\Processing_lab\Lab4(--)\Tuto3\.mono\temp\obj\Debug\Code a life bar (start).csproj.CoreCompileInputs.cache
+D:\Informatique\DEC shawi\Session_5\Jeux_multimedia\Laboratoire\Processing_lab\Lab4(--)\Tuto3\.mono\temp\obj\Debug\Code a life bar (start).dll
+D:\Informatique\DEC shawi\Session_5\Jeux_multimedia\Laboratoire\Processing_lab\Lab4(--)\Tuto3\.mono\temp\obj\Debug\Code a life bar (start).pdb
